@@ -1,3 +1,3 @@
 # conflicts
 conflict make and fix.
-master changed smile;;;;;;
+master and feature1 both changed !!!!
